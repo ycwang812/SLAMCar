@@ -1,0 +1,3 @@
+将下载好的ddmlib.jar替换到自己ADT的tools目录lib下E:\adt\sdk\tools\lib
+将下载好的ddmlib.jar替换到自己ADT的configuration目录org.eclipse.osgi下E:\adt\eclipse\configuration\org.eclipse.osgi\bundles\5\1\.cp\libs
+完成替换后重启eclipse即可

@@ -1,0 +1,16 @@
+<filelist version="0.0.0">
+	<file filename="Data/Template/appinfo/appicon/drawable-hdpi/appicon.png" md5="074851398fc1bb2dc8f71e45766b76f2"/>
+	<file filename="Data/Template/appinfo/appicon/drawable-ldpi/appicon.png" md5="0d2a8b5ce2f5e7f0f492712c4c11e49c"/>
+	<file filename="Data/Template/appinfo/appicon/drawable-mdpi/appicon.png" md5="eeea462f89274b45a3f54ac8747889bc"/>
+	<file filename="Data/Template/appinfo/appicon/drawable-xhdpi/appicon.png" md5="49a7050ad80d4e56b9feec6beedd0752"/>
+	<file filename="Data/Template/appinfo/appicon/drawable-xxhdpi/appicon.png" md5="13a9df489158d0349aaa9beec77ff1c4"/>
+	<file filename="Data/Template/appinfo/appicon/drawable-xxxhdpi/appicon.png" md5="4c72cb52b92d79ee84d0d2dc0ae2dde5"/>
+	<file filename="Data/Template/appinfo/show/show.jpg" md5="51df9041ff2248f5b4df578342ca56b0"/>
+	<file filename="Data/Template/appinfo/values/strings.xml" md5="7e5dba1ab2f6019f2b5ab634fddaca62"/>
+	<file filename="Data/Template/project.px2proj" md5="901548fb3712504dbc3d382b3b3a5f8d"/>
+	<file filename="Data/Template/project_ui.px2obj" md5="4ec7bbaee9bc456831361818f8bfc930"/>
+	<file filename="Data/Template/scripts/lua/editor/editor.lua" md5="c2e10dcc7c8afcf68f4199e922180f82"/>
+	<file filename="Data/Template/scripts/lua/play.lua" md5="ac0ba2721be92f5a40f16de55157519f"/>
+	<file filename="Data/Template/scripts/lua/stop.lua" md5="78f6c19c85f48fe8641f435555ffd953"/>
+</filelist>
+
