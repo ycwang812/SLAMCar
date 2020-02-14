@@ -6,6 +6,5 @@
 
 #### 安裝指令：
 
-1. wget http://kedei.net/raspberry/v6_1/LCD_show_v6_1_3.tar.gz 或下載專案內的 LCD_show_v6_1_3.tar
-
+1. wget http://kedei.net/raspberry/v6_1/LCD_show_v6_1_3.tar.gz
 2. 
