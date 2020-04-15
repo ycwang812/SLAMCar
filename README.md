@@ -1,2 +1,2 @@
 # SLAMCar
-SLAM 小車
+SLAM 自走小車
